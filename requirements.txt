@@ -1,4 +1,2 @@
 aiogram==2.15.1
 aiohttp
-sqlite3
-bs4
